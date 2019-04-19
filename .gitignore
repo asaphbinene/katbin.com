@@ -1,4 +1,5 @@
 # Numerous always-ignore extensions
+package-lock.json
 *.diff
 *.err
 *.orig
